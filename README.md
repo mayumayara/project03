@@ -4,7 +4,7 @@
 
 From [the Explore programming scholl](https://www.rocketseat.com.br/explorer) by [Rocketseat](https://www.rocketseat.com.br/).
 
-## About the challenge
+## About the project
 
 Creating a form with HTML and CSS.
 
